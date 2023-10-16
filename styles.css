@@ -13,11 +13,14 @@ body {
 h1 {
     font-size: 36px;
     color: #417546;
+    font-family: 'Amazone BT', serif; /* Alterada a fonte para 'Amazone BT' */
+    text-shadow: 3px 3px 10px black; /* Adicionada sombra com deslocamento horizontal e vertical de 2px e tamanho de 5px */
 }
 
 h2 {
     font-size: 20px;
     color: #43814a;
+    text-shadow: 5px 5px 10px black; /* Adicionada sombra com deslocamento horizontal e vertical de 2px e tamanho de 5px */
 }
 
 p {
